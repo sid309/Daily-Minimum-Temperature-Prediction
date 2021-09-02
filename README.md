@@ -1,1 +1,1 @@
-# Sunspot-Prediction
+# Daily Minimum Temperature Prediction
